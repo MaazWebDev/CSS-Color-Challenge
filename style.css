@@ -1,0 +1,21 @@
+h2{
+    background-color: blue;
+    color: rgb(5, 5, 83);
+    font-size: 35px;
+}
+.para1{
+    color: purple;
+    background-color: lightyellow;
+}
+.para3{
+    background-color: lightseagreen;
+}
+.para2{
+    color: orangered;
+    background-color: yellow;
+    font-size: large;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
